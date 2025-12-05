@@ -1,0 +1,12 @@
+{
+    "endpoint": "tcp://0.0.0.0:10200",
+    "parent" : "tcp://piper:10200",
+    "webhook": "http://homeassistant:8123/api/webhook/<MyHook>",
+    "yandex": {
+        "token": "<API-TOKEN>",
+        "address": "tts.api.cloud.yandex.net:443",
+        "voice": "yulduz_ru",
+        "role": "neutral",
+        "speed": 1.2
+    }
+}

@@ -1,0 +1,5 @@
+wyoming==1.8.0
+numpy==2.3.5
+sounddevice==0.5.3
+soundfile==0.13.1
+yandex-speechkit==1.5.0
