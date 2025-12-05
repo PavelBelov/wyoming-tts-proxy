@@ -85,10 +85,11 @@ data/
 Сборка 
 
 ```bash
-git clone https://github.com/PavelBelov/wyoming-tts-proxy.gi
+git clone https://github.com/PavelBelov/wyoming-tts-proxy.git
 cd wyoming-tts-proxy/
 docker build -t wyoming-tts-proxy .
 ```
+
 Отредактируйте конфигурационный файл `./data/config.json`
 
 Запуск
